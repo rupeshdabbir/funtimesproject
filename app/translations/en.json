@@ -1,0 +1,12 @@
+{
+  "project.components.Header.features": "Fetch Data",
+  "project.components.Header.home": "Home",
+  "project.containers.HomePage.start_project.header":
+    "Adobe - Lyfire assignment",
+  "project.containers.HomePage.start_project.message":
+    "Read data from https://jsonplaceholder.typicode.com/posts API and present the data.",
+  "project.containers.HomePage.tryme.atPrefix": "@",
+  "project.containers.HomePage.tryme.header": "Try me!",
+  "project.containers.LocaleToggle.en": "en",
+  "project.containers.NotFoundPage.header": "Page not found."
+}
